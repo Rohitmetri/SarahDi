@@ -1,0 +1,10 @@
+Add photos here with these names (or edit the src paths in script.js):
+  sarah.jpg                 Sarah Di hero / about picture
+  memorable-photo.jpg      Dedicated treasured photo
+  memory1.jpg              Gallery photo 1
+  memory2.jpg              Gallery photo 2
+  memory3.jpg              Gallery photo 3
+  memory4.jpg              Gallery photo 4
+  memory5.jpg              Gallery photo 5
+  memory6.jpg              Gallery photo 6
+You can add unlimited gallery photos by adding objects to the `memories` array in script.js.
